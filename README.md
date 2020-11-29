@@ -1,2 +1,1 @@
-# VKpoc
-VKpoc - VK piece of code
+# VKpoc - VK piece of code
