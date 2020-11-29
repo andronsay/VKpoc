@@ -11,4 +11,5 @@
 
 # vkpoc_wp_im()
 ```vkpost_id = vkpoc_wp_im('access token', 'group id', 'vk api version', (image,), 'Post message')```
+
 При успешной публикации функция возвращает ID нового поста на стене группы (сообщества)
