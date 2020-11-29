@@ -9,5 +9,5 @@
 # Какие функции существуют
 1. vkpoc_wp_im() - Публикация поста на стене группы (сообщества) с изображениями и сообщением.
 
-#Как использовать
+# Как использовать
 vkpost_id = vkpoc_wp_im('access token', 'group id', 'vk api version', (image,), 'Post message')
