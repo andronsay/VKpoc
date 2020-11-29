@@ -1,4 +1,4 @@
-# VKpoc - vk api, вконтакте, vkontakte, for python
+# VKpoc - vk api, вконтакте, vkontakte, python
 VKpoc (VK piece of code) - это простые и быстрые функции для работы с API ВКонтакте стандартными библиотеками Python. Все функции разделяются строго по функционалу.
 
 # Как это работает
